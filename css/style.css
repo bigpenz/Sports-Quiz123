@@ -1,0 +1,17 @@
+div#test
+{ 
+	border:purple 20px groove;
+	padding:100px 100px 100px 100px;
+	margin-top: 10px;
+    margin-bottom: 40px;
+    margin-right: 100px;
+}
+	
+body
+{
+	background-image: url("../img/sports.png");
+	padding-top: 30px;
+    padding-right: 0px;
+    padding-bottom: 50px;
+    padding-left: 200px;
+}
